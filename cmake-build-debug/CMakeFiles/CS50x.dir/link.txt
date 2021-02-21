@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/CS50x.dir/main.c.o  -o CS50x 

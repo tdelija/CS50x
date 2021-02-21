@@ -1,0 +1,3 @@
+/home/delija/Documents/Tony/Education/CS50x-Harvard/CS50x/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/delija/Documents/Tony/Education/CS50x-Harvard/CS50x/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/delija/Documents/Tony/Education/CS50x-Harvard/CS50x/cmake-build-debug/CMakeFiles/CS50x.dir
